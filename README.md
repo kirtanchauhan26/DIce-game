@@ -18,7 +18,7 @@ python dice_stimulator.py
 
 ## 📺 Demo
 <p align="center">
-<img src="" width=70% height=70%>
+<img src="https://github.com/kirtanchauhan26/DIce-game/blob/main/ds.gif" width=70% height=70%>
 
 ## 🤖 Author
 Kirtan Chauhan 
